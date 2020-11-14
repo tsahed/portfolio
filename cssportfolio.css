@@ -1,0 +1,245 @@
+/*Menu*/
+nav ul {
+    padding: 0px;
+    margin : 0px;
+    list-style-type : none;
+    text-align: center;
+}
+
+nav li {
+    display : inline-block;
+    width: 400px;
+    margin: 0px;
+    padding: 0px;
+    text-align:center;
+    line-height: 70px;
+    font-size: 30px;
+}
+
+nav li :hover{
+    background-color: white;
+    color : #ff8190;
+}
+
+a.bouton {
+    font-family: Arimo;
+    font-size: initial;
+}
+nav li a{
+    display: block;
+    background-color: #ff8190;
+    text-decoration: none;
+    color: white;
+}
+
+/*Bouton retour*/
+#scrollUp
+{
+    position: fixed;
+    bottom : 10px;
+    right: 100px;
+    opacity: 0.5;
+}
+
+/*Thalia*/
+img.thalia {
+    float: left;
+    margin-left: 200px;
+    margin-right: 100px;
+}
+
+/*balises p*/
+p {
+    margin-left:100px;
+    margin-right: 200px;
+    text-align: justify;
+    padding:0px;
+    font-family: "arimo";
+    font-size: initial;
+}
+
+/*Fond du menu*/
+.menu {
+    background-color: #ff8190;
+}
+
+/*carte annecy*/
+iframe {
+    float: left;
+    margin-left: 500px;
+    margin-right: 50px;
+}
+
+.contact {
+    background-color: #ffb49f;
+}
+
+.mention {
+    background-color: #dedfde;
+    max-height: 50px;
+    overflow : hidden;
+    -webkit-transition:max-height 1s;
+    -moz-transition: max-height 1s;
+    -ms-transition: max-height 1s;
+    transition: max-height 1s;
+}
+.mention:hover {
+    max-height: 7000px;
+}
+/*Liens hypertexte*/
+a {
+    text-decoration-color: none;
+    color: black;
+    text-decoration: none;
+}
+
+/*image accueil*/
+.progra {
+    width: 1890px;
+    height: 200px;
+}
+
+/*boutton*/
+button{
+    float: left;
+    margin-left: 180px;
+    margin-right: 100px;
+}
+
+.ok {
+    margin-left: 480px;
+    margin-right: 100px;
+}
+
+.decale {
+    margin-left: 0px;
+}
+
+.decale1 {
+    margin-left: 480px;
+    margin-right: 100px;
+}
+
+.langages {
+    margin-left: 200px;
+}
+
+img.bureautique {
+    margin-left: 200px;
+}
+
+img.ibm {
+    float: left;
+    margin-left: 120px;
+    margin-right: 50px;
+}
+
+img.robear {
+    float: left;
+    margin-left: 120px;
+    margin-right: 50px;
+}
+
+img.stmichel {
+    float: left;
+    margin-left: 120px;
+    margin-right: 100px;
+}
+
+img.baudelaire {
+    float: left;
+    margin-left: 50px;
+    margin-right: 100px;
+}
+
+img.semnoz {
+    float: left;
+    margin-left: 50px;
+    margin-right: 100px;
+}
+img.nusab {
+    float: left;
+    margin-left: 30px;
+}
+img.crit {
+    float : left;
+    margin-right: 10px;
+}
+
+img.monop {
+    float : left;
+    margin-right: 10px;
+}
+
+img.enfant {
+    float: left;
+    margin-right: 10px;
+}
+img.tel {
+    float: left;
+    margin-right: 10px;
+    margin-top: 20px;
+}
+img.mail {
+    float : left;
+    margin-right: 10px;
+    margin-top: 20px;
+}
+
+img.localisation {
+    float : left;
+    margin-right: 10px;
+    margin-top: 20px;
+}
+
+img.linkedin {
+    float: left;
+    margin-right: 10px;
+    margin-top: 20px;
+}
+img.voiture {
+    float: left;
+    margin-right: 10px;
+    margin-top: 20px;
+}
+
+h1 {
+    background-color: #ffffff;
+    color: #ff7052;
+    font-family: "arimo";
+    font-size: 200%;
+}
+
+.contact {
+    background-color: #ffb49f;
+    color: #f0fff6;
+}
+h3 {
+    font-family: "arimo";
+    font-size: large;
+}
+h2 {
+    font-family: "arimo";
+    font-size: x-large;
+}
+h5 {
+    font-family: "arimo";
+    font-size: 300%;
+}
+h4 {
+    font-family: Arimo;
+}
+
+.decaletoi {
+    margin-left:300px;
+    text-align: justify;
+    padding:0px;
+    font-family: "arimo";
+    font-size: initial;
+}
+
+.laba {
+    margin-left: 1250px;
+    font-family: "arimo";
+    font-size: x-large;
+}
